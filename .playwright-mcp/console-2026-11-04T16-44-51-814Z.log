@@ -1,0 +1,38 @@
+[      82ms] [WARNING] The key "target-densitydpi" is not supported. @ https://www.cricbuzz.com/:0
+[     881ms] [WARNING] virtual placement container selector should return only one element: xasaxscsaascascsdv @ https://cdn.taboola.com/libtrc/cricbuzz-cricbuzzcom/loader.js:0
+[     883ms] [WARNING] Mode 'thumbs-feed-01' for Placement 'sticky-logo' doesn't exist in configuration https://www.cricbuzz.com/ @ https://cdn.taboola.com/libtrc/cricbuzz-cricbuzzcom/loader.js:0
+[     885ms] [WARNING] Placements With no Content: sticky-logo @ https://cdn.taboola.com/libtrc/cricbuzz-cricbuzzcom/loader.js:0
+[     896ms] [WARNING] StickyLogo: parsed placement has no items @ https://cdn.taboola.com/libtrc/cricbuzz-cricbuzzcom/loader.js:0
+[    1045ms] [WARNING] [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610290101/pubads_impl.js?cb=122881978:22
+[    1246ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://connectid.analytics.yahoo.com/connectId-gpt.js:0
+[    1288ms] [WARNING] Google Deploy of the SharedId library has been deprecated. Please select another option in the GAM UI. If you use Prebid, we suggest the Prebid.js UserId option. If you do not, you may configure GAM to allow Google to share a first party user identifier with OB and AB participants, which is either the publisherProvidedId or the __gads value when that is missing. @ https://cdn.jsdelivr.net/gh/prebid/shared-id/pubcid.js/docs/pubcid.min.js:0
+[    1515ms] [WARNING] [GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.
+https://goo.gle/gpt-message#155 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610290101/pubads_impl.js?cb=122881978:22
+[    1948ms] [WARNING] [GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.
+https://goo.gle/gpt-message#155 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610290101/pubads_impl.js?cb=122881978:22
+[    2133ms] [WARNING] [GPT] Anchor /1024780/Mobile_Web/LB/News_Index not requested: Format already created on the page.
+https://goo.gle/gpt-message#134 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610290101/pubads_impl.js?cb=122881978:22
+[    2352ms] [INFO] Powered by AMP ⚡ HTML – Version 2607210106000 https://www.cricbuzz.com/ @ https://cdn.ampproject.org/rtv/012607210106000/amp4ads-v0.mjs:1
+[    3049ms] [DIR] SyntaxError @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[    3329ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[    3525ms] [TIMEEND] a: 0.0048828125 ms @ https://static.adsafeprotected.com/sca.17.6.4.js:31
+[   31320ms] [WARNING] StickyLogo: parsed placement has no items @ https://cdn.taboola.com/libtrc/cricbuzz-cricbuzzcom/loader.js:0
+[   61942ms] [WARNING] StickyLogo: parsed placement has no items @ https://cdn.taboola.com/libtrc/cricbuzz-cricbuzzcom/loader.js:0
+[   92218ms] [WARNING] StickyLogo: parsed placement has no items @ https://cdn.taboola.com/libtrc/cricbuzz-cricbuzzcom/loader.js:0
+[  122630ms] [WARNING] StickyLogo: parsed placement has no items @ https://cdn.taboola.com/libtrc/cricbuzz-cricbuzzcom/loader.js:0
+[  152841ms] [WARNING] StickyLogo: parsed placement has no items @ https://cdn.taboola.com/libtrc/cricbuzz-cricbuzzcom/loader.js:0
+[  620292ms] [WARNING] The key "target-densitydpi" is not supported. @ https://www.cricbuzz.com/cricket-match/live-scores:0
+[  620898ms] [WARNING] [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610290101/pubads_impl.js?cb=122881978:22
+[  621802ms] [WARNING] [GPT] Anchor /1024780/Mobile_Web/LB/News_Index not requested: Codeless ad unit request not sent because there are existing sticky elements on the page.
+https://goo.gle/gpt-message#180 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610290101/pubads_impl.js?cb=122881978:22
+[  621803ms] [WARNING] [GPT] Anchor /1024780/Mobile_Web/LB/News_Index not requested: Codeless ad unit request not sent because there are existing sticky elements on the page.
+https://goo.gle/gpt-message#180 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610290101/pubads_impl.js?cb=122881978:22
+[  622395ms] [DIR] SyntaxError @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[  622528ms] [TIMEEND] a: 0.00390625 ms @ https://static.adsafeprotected.com/sca.17.6.4.js:31
+[  622645ms] [DIR] SyntaxError @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[  622790ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[  622953ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[  629390ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://id5-sync.com/k/285.gif?puid=MW2CXXTL-1Q-OOR&gdpr=0:0
+[  667866ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://sync.mathtag.com/sync/img?mt_exid=10089&redir=https%3A%2F%2Fid5-sync.com%2Fc%2F112%2F3%2F7%2F3.gif%3Fpuid%3D%5BUUID%5D%26gdpr%3D0%26gdpr_consent%3D&gdpr=0&gdpr_consent=:0
