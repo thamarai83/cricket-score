@@ -1,0 +1,35 @@
+2026/11/06-09:32:54.151 6810 Reusing MANIFEST C:\Users\Thamarai\OneDrive\Desktop\Assignment\cricket-score\whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/11/06-09:32:54.152 6810 Recovering log #2210
+2026/11/06-09:32:54.170 6810 Reusing old log C:\Users\Thamarai\OneDrive\Desktop\Assignment\cricket-score\whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/002210.log 
+2026/11/06-09:32:57.871 6810 Compacting 1@1 + 2@2 files
+2026/11/06-09:32:57.928 6810 Generated table #2224@1: 93784 keys, 2242945 bytes
+2026/11/06-09:32:57.936 6810 Generated table #2225@1: 9018 keys, 457735 bytes
+2026/11/06-09:32:57.936 6810 Compacted 1@1 + 2@2 files => 2700680 bytes
+2026/11/06-09:32:57.937 6810 compacted to: files[ 0 0 53 0 0 0 0 ]
+2026/11/06-09:33:00.578 6810 Level-0 table #2227: started
+2026/11/06-09:33:00.601 6810 Level-0 table #2227: 1145252 bytes OK
+2026/11/06-09:33:00.602 6810 Delete type=2 #2180
+2026/11/06-09:33:00.602 6810 Delete type=2 #2181
+2026/11/06-09:33:00.602 6810 Delete type=0 #2210
+2026/11/06-09:33:00.602 6810 Delete type=2 #2214
+2026/11/06-09:33:00.606 6810 Compacting 1@0 + 0@1 files
+2026/11/06-09:33:00.623 6810 Generated table #2228@0: 30615 keys, 564040 bytes
+2026/11/06-09:33:00.624 6810 Generated table #2229@0: 38 keys, 2738 bytes
+2026/11/06-09:33:00.625 6810 Generated table #2230@0: 64 keys, 5971 bytes
+2026/11/06-09:33:00.625 6810 Compacted 1@0 + 0@1 files => 572749 bytes
+2026/11/06-09:33:00.626 6810 compacted to: files[ 0 3 53 0 0 0 0 ]
+2026/11/06-09:33:00.626 6810 Delete type=2 #2227
+2026/11/06-09:33:00.628 4fc8 Compacting 1@1 + 5@2 files
+2026/11/06-09:33:00.672 4fc8 Generated table #2231@1: 91272 keys, 2243206 bytes
+2026/11/06-09:33:00.703 4fc8 Generated table #2232@1: 46545 keys, 2233726 bytes
+2026/11/06-09:33:00.739 4fc8 Generated table #2233@1: 51042 keys, 2208191 bytes
+2026/11/06-09:33:00.812 4fc8 Generated table #2234@1: 61182 keys, 2228496 bytes
+2026/11/06-09:33:00.843 4fc8 Generated table #2235@1: 42665 keys, 2203090 bytes
+2026/11/06-09:33:00.843 4fc8 Compacted 1@1 + 5@2 files => 11116709 bytes
+2026/11/06-09:33:00.844 4fc8 compacted to: files[ 0 2 53 0 0 0 0 ]
+2026/11/06-09:33:00.844 4fc8 Delete type=2 #2215
+2026/11/06-09:33:00.844 4fc8 Delete type=2 #2216
+2026/11/06-09:33:00.845 4fc8 Delete type=2 #2217
+2026/11/06-09:33:00.845 4fc8 Delete type=2 #2218
+2026/11/06-09:33:00.845 4fc8 Delete type=2 #2219
+2026/11/06-09:33:00.845 4fc8 Delete type=2 #2228

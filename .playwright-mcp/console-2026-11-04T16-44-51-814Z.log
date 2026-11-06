@@ -36,3 +36,168 @@ https://goo.gle/gpt-message#180 @ https://securepubads.g.doubleclick.net/pagead/
 [  622953ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
 [  629390ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://id5-sync.com/k/285.gif?puid=MW2CXXTL-1Q-OOR&gdpr=0:0
 [  667866ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://sync.mathtag.com/sync/img?mt_exid=10089&redir=https%3A%2F%2Fid5-sync.com%2Fc%2F112%2F3%2F7%2F3.gif%3Fpuid%3D%5BUUID%5D%26gdpr%3D0%26gdpr_consent%3D&gdpr=0&gdpr_consent=:0
+[ 2502197ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://pixel.quantcount.com/pixel/p-1RYxePXT9bCS2.gif?&media=ad&r=853855&labels=_qc.creative%2C_qc.visibility_samples&rtb_id=CWg4AnoSl9cVEQAQAnoSl9cVGDxMSr4Jr-WXPQn15zY&ver=1.10.0&vw=1440&vh=709&vx=0&vy=1187.5&sr=1440x900&pw=1425&ph=3956&ex=906.03125&ey=1064.4296875&tpl=1881619&asn=google_ads_iframe_%2F1024780%2FDesktop_new%2FMPU2%2FLiveCommentary_0&ifr=sd&tech=io&seq=50&t=1879728&pv=0.713&ev=0&pgv=1:0
+[ 2933587ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://pixel.quantcount.com/pixel/p-1RYxePXT9bCS2.gif?&media=ad&r=853855&labels=_qc.creative%2C_qc.visibility_samples&rtb_id=CWg4AnoSl9cVEQAQAnoSl9cVGDxMSr4Jr-WXPQn15zY&ver=1.10.0&vw=1440&vh=709&vx=0&vy=1187.5&sr=1440x900&pw=1425&ph=3956&ex=906.03125&ey=1064.4296875&tpl=2312961.3&asn=google_ads_iframe_%2F1024780%2FDesktop_new%2FMPU2%2FLiveCommentary_0&ifr=sd&tech=io&seq=51&t=2311071&pv=0.713&ev=0&pgv=1:0
+[90753520ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://pixel.quantcount.com/pixel/p-1RYxePXT9bCS2.gif?&media=ad&r=853855&labels=_qc.creative%2C_qc.visibility_samples&rtb_id=CWg4AnoSl9cVEQAQAnoSl9cVGDxMSr4Jr-WXPQn15zY&ver=1.10.0&vw=1440&vh=709&vx=0&vy=1187.5&sr=1440x900&pw=1425&ph=3956&ex=906.03125&ey=1064.4296875&tpl=90132574&asn=google_ads_iframe_%2F1024780%2FDesktop_new%2FMPU2%2FLiveCommentary_0&ifr=sd&tech=io&seq=52&t=90130684&pv=0.713&ev=0&pgv=1:0
+[90753525ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjstbPw_yy8WGj9UN4CWiSKQDlpzNwe8WO0nt-FeTM43VwFqOl3IuEiQRXnxjdhlYk5sqM46uKdqUSpU1Yxxnm5amr7XPHBsxP4HsuhhnaQwIr6iJP5qtTPeWiDZYR-TI_ZGX8qSwNfhNrIo5dxsqofXoo9JDPJHqKmvPp9P8G-3kGYyKaNQ3MA&sig=Cg0ArKJSzCiTLgdSV2D3EAE&id=lidartos&mcvt=89908483&p=1064,906,1664,1206&tm=90130618.99999999&tu=214180.7999999998&mtos=98,89908366,89908483,89908581,89908714&tos=98,89909917,3907,699,1817&v=20261019&bin=7&avms=nio&bs=1425,709&mc=1&vu=1&app=0&itpl=20&adk=1106058419&rs=4&la=0&cr=0&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTU2LjAuODA3OC44MCIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q6QS1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTU2LjAuODA3OC44MCJdLFsiR29vZ2xlIENocm9tZSIsIjE1Ni4wLjgwNzguODAiXV0sMF0%3D&vs=4&r=t&co=8974411301&rst=1793811313624&rpt=398&isd=0&lsd=0&ec=1&met=ie&wmsd=0&pbe=0&fle=0&vae=0&spb=0&sfl=0&ffslot=0&reach=8&io2=0:0
+[90753525ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsvagevoJr_YUrlmebyjLz3doRB-6Q1B6x1sexnLbDHiCqC-2Med1aCRKHjhVxobG-ehjKE50XYC1EnrXAYDtRpueHCBvffpl-yUDMr8EZwNpWph4yl0UejhnSdKRANDkeWTRjl5Urz0zHnZHMAOyb7OPltHFN50UguSRk5nsa1O1pEFpACULg&sig=Cg0ArKJSzDJQ4NAxHdSuEAE&id=lidartos&mcvt=197275&p=2300,906,2900,1206&tm=90130557.5&tu=89933065&mtos=0,0,197275,197376,197493&tos=0,0,197275,101,117&v=20261019&bin=7&avms=nio&bs=1425,709&mc=0.73&vu=1&app=0&itpl=20&adk=3091612967&rs=4&la=0&cr=0&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTU2LjAuODA3OC44MCIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q6QS1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTU2LjAuODA3OC44MCJdLFsiR29vZ2xlIENocm9tZSIsIjE1Ni4wLjgwNzguODAiXV0sMF0%3D&vs=4&r=t&co=8974411401&rst=1793811313648&rpt=510&isd=0&lsd=0&ec=1&met=ie&wmsd=0&pbe=0&fle=0&vae=0&spb=0&sfl=0&ffslot=0&reach=8&io2=0:0
+[90753590ms] Uncaught (in promise) TypeError: Failed to fetch
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:132:728)
+    at Kg.ping (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:132:685)
+    at rf.sendNow (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:107:245)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:284:202)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:284:175)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:94:480)
+    at O.b.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:989)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:85:1013)
+    at bd.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:802)
+    at pc.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:218)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:85:1013)
+    at bd.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:802)
+    at pc.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:218)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:85:1013)
+    at bd.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:802)
+    at pc.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:218)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:85:1013)
+    at bd.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:802)
+    at pc.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:218)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:105:904)
+    at O.b.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:989)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:94:473)
+    at O.b.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:989)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:268:1974)
+    at Ua (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:52:339)
+    at Pa.flush (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:52:147)
+    at Ra (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:51:648)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:151:291)
+    at pc.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:218)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:104:1072)
+    at O.b.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:989)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:99:1544)
+    at O.b.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:989)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:104:941)
+    at O.b.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:989)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:106:168)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:51:315)
+[90753590ms] Uncaught (in promise) TypeError: Failed to fetch
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:132:728)
+    at Kg.ping (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:132:685)
+    at rf.sendNow (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:107:245)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:284:202)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:284:175)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:94:480)
+    at O.b.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:989)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:85:1013)
+    at bd.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:802)
+    at pc.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:218)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:85:1013)
+    at bd.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:802)
+    at pc.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:218)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:85:1013)
+    at bd.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:802)
+    at pc.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:218)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:85:1013)
+    at bd.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:802)
+    at pc.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:218)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:105:904)
+    at O.b.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:989)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:94:473)
+    at O.b.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:989)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:268:1974)
+    at Ua (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:52:339)
+    at Pa.flush (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:52:147)
+    at Ra (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:51:648)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:151:291)
+    at pc.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:218)
+    at n.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:831)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:104:1072)
+    at O.b.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:989)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:99:1544)
+    at O.b.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:989)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:104:941)
+    at O.b.fe (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:989)
+    at n.next (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:598)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:106:168)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:51:315)
+[102913327ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://pixel.quantcount.com/pixel/p-1RYxePXT9bCS2.gif?&media=ad&r=853855&labels=_qc.creative%2C_qc.visibility_samples&rtb_id=CWg4AnoSl9cVEQAQAnoSl9cVGDxMSr4Jr-WXPQn15zY&ver=1.10.0&vw=1440&vh=709&vx=0&vy=1187.5&sr=1440x900&pw=1425&ph=3956&ex=906.03125&ey=1064.4296875&tpl=102292640&asn=google_ads_iframe_%2F1024780%2FDesktop_new%2FMPU2%2FLiveCommentary_0&ifr=sd&tech=io&seq=54&t=102290749&pv=0.713&ev=0&pgv=1:0
+[124469174ms] [WARNING] The key "target-densitydpi" is not supported. @ https://www.cricbuzz.com/cricket-match/live-scores:0
+[124469499ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://in1.clevertap-prod.com/a?t=96&type=push&d=N4IgLgngDgpiBcIoCcD2AzAlgGzgGiTS1wVAGFUBXAOzGQgRAEkA5EAgBWwEMx1VkAW0YATGAGcA1mFRR24AF6MA4gFkAKgGoADAFYAzNpABfAphGMASroDSAWks2AWnYAcATgBsT%2BQHNGAOzaAMbBAIzuMMHo6AEiACwiugBG3MHayTDJYSKeAEz6rtww6J7yUP7wYQTc6KQg2JjJjADuWXbiIpJ2AG76AHRh%2FXnlaDLBqNiMABZgYFDi8tiowdwkiDDUAPoAqgDKJmbiAPI7ADIIdJQwxkAAA%3D&rn=1&i=1793935161&sn=0&tries=1&origin=https%3A%2F%2Fwww.cricbuzz.com&useIP=false&r=1793935161225:0
+[124469730ms] [WARNING] [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611020101/pubads_impl.js:22
+[124469768ms] [WARNING] Google Deploy of the SharedId library has been deprecated. Please select another option in the GAM UI. If you use Prebid, we suggest the Prebid.js UserId option. If you do not, you may configure GAM to allow Google to share a first party user identifier with OB and AB participants, which is either the publisherProvidedId or the __gads value when that is missing. @ https://cdn.jsdelivr.net/gh/prebid/shared-id/pubcid.js/docs/pubcid.min.js:0
+[124469969ms] [WARNING] [GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.
+https://goo.gle/gpt-message#155 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611020101/pubads_impl.js:22
+[124470271ms] [WARNING] The key "target-densitydpi" is not supported. @ https://www.cricbuzz.com/:0
+[124470524ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://in1.clevertap-prod.com/a?t=96&type=push&d=N4IgLgngDgpiBcIoCcD2AzAlgGzgGiTS1wVAGFUBXAOzGQgRAEkA5EAgBWwEMx1VkAW0YATGAGcA1mFRR24AF6MA4gFkAKgGoADAFYAzNpABfAphGMASroDSAWks2AWnYAcATgBsT%2BQHNGAOzaAMbBAIzuMMHo6AEiACwiugBG3MHayTDJYSKeAEz6rtww6J7yUP7wYQTc6KQg2JjJjADuWXbiIpJ2AG76AHRh%2FXnlaDLBqNiMABZgYFDi8tiowdwkiDDUAPoAqgDKJmbiAPI7ADIIdJQwxkAAA%3D&rn=5&i=1793935162&sn=0&tries=1&origin=https%3A%2F%2Fwww.cricbuzz.com&useIP=false&r=1793935162298:0
+[124470687ms] [WARNING] Google Deploy of the SharedId library has been deprecated. Please select another option in the GAM UI. If you use Prebid, we suggest the Prebid.js UserId option. If you do not, you may configure GAM to allow Google to share a first party user identifier with OB and AB participants, which is either the publisherProvidedId or the __gads value when that is missing. @ https://cdn.jsdelivr.net/gh/prebid/shared-id/pubcid.js/docs/pubcid.min.js:0
+[124470693ms] [WARNING] [GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.
+https://goo.gle/gpt-message#155 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611020101/pubads_impl.js:22
+[124470742ms] [WARNING] [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611020101/pubads_impl.js:22
+[124470897ms] [WARNING] virtual placement container selector should return only one element: xasaxscsaascascsdv @ https://cdn.taboola.com/libtrc/cricbuzz-cricbuzzcom/loader.js:61
+[124470900ms] [WARNING] Mode 'thumbs-feed-01' for Placement 'sticky-logo' doesn't exist in configuration https://www.cricbuzz.com/ @ https://cdn.taboola.com/libtrc/cricbuzz-cricbuzzcom/loader.js:61
+[124470901ms] [WARNING] Placements With no Content: sticky-logo @ https://cdn.taboola.com/libtrc/cricbuzz-cricbuzzcom/loader.js:61
+[124470968ms] [WARNING] StickyLogo: parsed placement has no items @ https://cdn.taboola.com/libtrc/cricbuzz-cricbuzzcom/loader.js:61
+[124471375ms] [WARNING] [GPT] Anchor /1024780/Mobile_Web/LB/News_Index not requested: Codeless ad unit request not sent because there are existing sticky elements on the page.
+https://goo.gle/gpt-message#180 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611020101/pubads_impl.js:22
+[124471375ms] [WARNING] [GPT] Anchor /1024780/Mobile_Web/LB/News_Index not requested: Codeless ad unit request not sent because there are existing sticky elements on the page.
+https://goo.gle/gpt-message#180 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611020101/pubads_impl.js:22
+[124471463ms] [INFO] Powered by AMP ⚡ HTML – Version 2607210106000 https://www.cricbuzz.com/ @ https://cdn.ampproject.org/rtv/012607210106000/amp4ads-v0.mjs:1
+[124471919ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://pxl.connexity.net/c/cse?a=R&A=22c&D=569a&V=9&I0k=ptnrid&I0v=95fcb535-3440-4e36-baa7-01e9f8b5bc91-tuct11e4e686:0
+[124472472ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://odr.mookie1.com/t/v2/sync?tagid=V2_866925&src.visitorId=95fcb535-3440-4e36-baa7-01e9f8b5bc91-tuct11e4e686&gdpr=0&gdpr_consent=:0
+[124475701ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://in1.clevertap-prod.com/a?t=96&type=push&d=N4IgLgngDgpiBcIoCcD2AzAlgGzgGiTS1wVAGFUBXAOzGQgRAEkA5EAgBWwEMx1VkAW0YATGAGcA1mFRR24AF6MA4gFkAKgGoADAFYAzNpABfAphGMASroDSAWks2AWnYAcATgBsT%2BQHNGAOzaAMbBAIzuMMHo6AEiACwiugBG3MHayTDJYSKeAEz6rtww6J7yUP7wYQTc6KQg2JjJjADuWXbiIpJ2AG76AHRh%2FXnlaDLBqNiMABZgYFDi8tiowdwkiDDUAPoAqgDKJmbiAPI7ADIIdJQwxkAAA%3D&rn=1&i=1793935161&sn=0&gc=70cc19ecff7d4d5bac0beb1d6238aef6&arp=N4IgVg%2BgdiBcIC0DuBeFIA0ICW04gCMBbAGzAFMBBATQHEBhARQCUBXTEAEwgBcBnOAAYsnABZCsANzgAmLJAHxgAXw7ZO%2BZgFYA0gFpmOhHoAcATgBsCDgCdeigIwB2MwGYTDh64cAWLNj4AeQBVABk4HhtWcmUgAA%3D&tries=1&origin=https%3A%2F%2Fwww.cricbuzz.com&useIP=false&r=1793935165305:0
+[124491964ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://bh.contextweb.com/bh/rtset?pid=560382&ev=1&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=&rurl=https%3A%2F%2Fsync.taboola.com%2Fsg%2Frtb-pulsepoint-network%2F1%2Frtb-h%2F%3Fui%3D95fcb535-3440-4e36-baa7-01e9f8b5bc91-tuct11e4e686%26taboola_hm%3D%25%25VGUID%25%25&orig=trc:0
+[124495895ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://pixel.advertising.com/ups/55973/sync?uid=95fcb535-3440-4e36-baa7-01e9f8b5bc91-tuct11e4e686&_origin=1:0
+[124512206ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://smarttag.rubiconproject.com/a/13726/580984/3700194-15.js?&cb=0.2049457576483218&tk_st=1&rf=https%3A//www.cricbuzz.com/&rp_s=c&p_screen_res=1440x900&ad_slot=580984_15&rp_secure=1:0
+[124513652ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://ads.yieldmo.com/pbsync?is=adptmx&gdpr=0&us_privacy=1---&redirectUri=https%3A%2F%2Fsea1-sync.a-mo.net%2Fcchain%2F0%2F33315%3Fgdpr%3D0%26gdpr_consent%3D%26A%3Dfece44f2-a7e6-4240-9882-0cb262d9965c%26bidder%3Dyieldmo%26cbx%3DaHR0cHM6Ly9zeW5jLnRhYm9vbGEuY29tL3NnL2FkYXB0bXhydGItbmV0d29yay8xL3J0Yi1oLz90YWJvb2xhX2htPSR7QlVZRVJfSUR9%26uid%3D%24UID:0
+[124513890ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://ads.yieldmo.com/pbsync?is=taboola&gdpr=0&gdpr_consent=&us_privacy=&redirectUri=https%3A%2F%2Fsync.taboola.com%2Fsg%2Fyieldmortb-network%2F1%2Frtb-h%2F%3Ftaboola_hm%3D%24UID:0
